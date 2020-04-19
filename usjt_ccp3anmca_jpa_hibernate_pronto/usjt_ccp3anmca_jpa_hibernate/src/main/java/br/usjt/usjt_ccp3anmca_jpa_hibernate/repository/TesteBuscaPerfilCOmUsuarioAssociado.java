@@ -11,7 +11,6 @@ public class TesteBuscaPerfilCOmUsuarioAssociado {
 		System.out.println(p.getUsuario().getNome());
 		manager.close();
 		JPAUtil.close();
-	dddd
 	
 	
 	}
